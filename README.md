@@ -129,7 +129,9 @@ O modelo YOLOv8 foi testado no COCO Dataset, porém o cenário usado no projeto 
 | 🛏️ bed | Falso positivo |
 
 > Observação: o comportamento varia com distância — objetos podem mudar de classe (ex: dog ↔ person dependendo da escala).
+
 > O cenário de teste continha apenas um cachorro simulado.  
+
 > As demais classes detectadas foram falsos positivos do modelo YOLOv8 em condições de teste controladas.
 ---
 
