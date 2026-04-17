@@ -172,8 +172,7 @@ python inference.py
 > https://www.youtube.com/watch?v=DcYX8LEDtm0
 
 
-### 📌 Descrição (curta e profissional):
-Sistema de robótica autônoma utilizando YOLOv8 para detecção de objetos em tempo real integrado ao Webots via Python + C++.
+### 📌 Descrição curta do video:
 
 O robô detecta obstáculos, toma decisões de navegação e evita colisões automaticamente em ambiente simulado.
 
