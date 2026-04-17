@@ -201,8 +201,8 @@ O robô detecta obstáculos, toma decisões de navegação e evita colisões aut
 
 Feito com 🔥 por **Luis Filipe**
 
-GitHub: https://github.com/seu-usuario  
-LinkedIn: https://linkedin.com/in/seu-usuario
+GitHub: https://github.com/LuisFilipeKaiser  
+LinkedIn: https://www.linkedin.com/in/luis-filipe-chaves-8430b335a/
 
 ---
 
