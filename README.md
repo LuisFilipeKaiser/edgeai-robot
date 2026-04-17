@@ -123,7 +123,7 @@ O modelo YOLOv8 foi testado no COCO Dataset, porém o cenário usado no projeto 
 
 | Classe | Resultado |
 |--------|----------|
-| 🐶 dog | Detecção correta (objeto real da cena) |
+| 🐶 dog | Detecção correta (objeto real da simulação) |
 | 👤 person | Falso positivo |
 | 🐘 elephant | Falso positivo |
 | 🛏️ bed | Falso positivo |
