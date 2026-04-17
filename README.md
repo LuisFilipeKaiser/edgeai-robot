@@ -169,8 +169,6 @@ python inference.py
 
 ## 🎥 Demo (YouTube)
 
-📌 Substitua abaixo pelo seu vídeo:
-
 > https://www.youtube.com/watch?v=DcYX8LEDtm0
 
 
