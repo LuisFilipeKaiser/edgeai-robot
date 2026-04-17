@@ -173,8 +173,6 @@ python inference.py
 
 > https://www.youtube.com/watch?v=DcYX8LEDtm0
 
-### 📌 Título recomendado do vídeo:
-**EdgeAI-Robot - Robô Autônomo com YOLOv8 em Tempo Real (Webots Simulation)**
 
 ### 📌 Descrição (curta e profissional):
 Sistema de robótica autônoma utilizando YOLOv8 para detecção de objetos em tempo real integrado ao Webots via Python + C++.
