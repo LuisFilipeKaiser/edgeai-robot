@@ -123,13 +123,14 @@ O modelo YOLOv8 foi testado no COCO Dataset, porém o cenário usado no projeto 
 
 | Classe | Resultado |
 |--------|----------|
-| 🐶 dog | Detecção principal e desvio correto |
-| 👤 person | Detectado corretamente em aproximação |
-| 🐘 elephant | Detectado em testes de escala/distância |
-| 🛏️ bed | Detectado como obstáculo estático |
+| 🐶 dog | Detecção correta (objeto real da cena) |
+| 👤 person | Falso positivo |
+| 🐘 elephant | Falso positivo |
+| 🛏️ bed | Falso positivo |
 
 > Observação: o comportamento varia com distância — objetos podem mudar de classe (ex: dog ↔ person dependendo da escala).
-
+> O cenário de teste continha apenas um cachorro simulado.  
+> As demais classes detectadas foram falsos positivos do modelo YOLOv8 em condições de teste controladas.
 ---
 
 ## ⚠️ Limitações
