@@ -214,3 +214,4 @@ LinkedIn: https://linkedin.com/in/seu-usuario
 ## 📄 Licença
 
 MIT License
+
